@@ -29,6 +29,9 @@ Perform system update & cleanup
 Start live log monitoring
 View Script Logs
 Exit
+
+
+
 ✅ Installation & Setup
 1. Make scripts executable
 From inside the scripts folder:
